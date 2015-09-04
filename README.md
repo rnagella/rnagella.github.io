@@ -1,4 +1,4 @@
-This project is originaly modified from below git repo. 
+This project is originaly modified from below git repo.  
 - https://github.com/rnagella/startbootstrap-freelancer.git
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
