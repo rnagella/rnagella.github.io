@@ -40,7 +40,7 @@
         window.setTimeout(function() {
           input.value = input.value || "";
 	  input.focus();
-	  input.trigger();
+	  input.trigger('click');
 	  input.prompt();
         }, 0);
       }
