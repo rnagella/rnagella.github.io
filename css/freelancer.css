@@ -212,7 +212,7 @@ section.success a.active {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 300px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -456,4 +456,7 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+.imager {
+    height: 480px;
 }
